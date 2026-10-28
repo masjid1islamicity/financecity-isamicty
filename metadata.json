@@ -1,0 +1,6 @@
+{
+  "name": "FinanceCity Islamicity",
+  "description": "Infrastruktur platform finansial cerdas dengan trading kripto syariah otomatis, voucher Islamicity, blockchain ledger terenkripsi, dasbor analitik pengeluaran, otentikasi biometrik, dan sinkronisasi perbankan.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
